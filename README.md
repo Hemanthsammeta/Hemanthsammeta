@@ -10,17 +10,22 @@ Frameworks & Tools: Skilled in creating robust backend architectures using Sprin
 
 Key Projects
 Pixsure Media: A responsive portfolio website showcasing creative and technical capabilities, built using modern web technologies.
+
 CPU Utilization Monitor: Developed a real-time system to track and optimize CPU usage using AWS EC2 and CloudWatch, enhancing performance and resource allocation.
 Image Processing Automation: Improved processing efficiency by 20% through Python-based OpenCV workflows.
 
 Certifications
 Java Full Stack Development – Wipro TalentNext
+
 Generative AI with Large Language Models – Coursera
+
 Cyber Security and Privacy / Ethical Hacking – NPTEL
+
 Data Analytics and Visualization – Accenture
 
 Education
 🎓 Bachelor of Technology in Information Technology
+
 📍 NRI Institute of Technology (GPA: 8.63)
 
 📫 Let’s connect!
