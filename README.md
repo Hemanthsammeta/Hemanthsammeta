@@ -1,5 +1,29 @@
 # 💫 About Me:
-👋 Hi, I’m Sammeta Hemanth Venkata Sai Vaibhav, an entry-level IT professional passionate about solving complex problems with innovative solutions.<br><br>💻 Technical Expertise:<br><br>Programming: Python, Java, JavaScript<br>Web Development: HTML, CSS, JavaScript, Spring Boot, Hibernate<br>Databases: SQL, MySQL, MongoDB<br>Cloud Technologies: AWS (EC2, CloudWatch)<br>Soft Skills: Problem-solving, teamwork, adaptability, and time management.<br><br>🚀 Experience & Projects:<br><br>Developed a responsive portfolio website, Pixsure Media, showcasing my technical expertise and creativity.<br>Created a monitoring system for CPU utilization using AWS CloudWatch and EC2.<br>Automated image processing tasks using Python and OpenCV, enhancing efficiency by 20%.<br><br>🎓 Education:<br>Pursuing a Bachelor of Technology in Information Technology at NRI Institute of Technology (GPA: 8.63).<br><br>🎖️ Certifications:<br><br>Java Full Stack (Wipro TalentNext)<br>Generative AI with Large Language Models (Coursera)<br>Cyber Security and Privacy / Ethical Hacking (NPTEL)<br><br>📫 Let’s connect!
+Hello! 👋 I’m Sammeta Hemanth Venkata Sai Vaibhav, a dedicated IT professional with a strong foundation in software development, cloud technologies, and innovative problem-solving. My expertise lies in designing scalable solutions, optimizing workflows, and delivering impactful projects that bridge technology and user needs.
+
+Professional Skillset
+Programming Languages: Python, Java, JavaScript
+Web Technologies: HTML, CSS, JavaScript, Spring Boot, Hibernate
+Databases: SQL, MySQL, MongoDB
+Cloud Technologies: Proficient in AWS services, including EC2 and CloudWatch, for building and managing cloud-native solutions
+Frameworks & Tools: Skilled in creating robust backend architectures using Spring Boot and Hibernate
+
+Key Projects
+Pixsure Media: A responsive portfolio website showcasing creative and technical capabilities, built using modern web technologies.
+CPU Utilization Monitor: Developed a real-time system to track and optimize CPU usage using AWS EC2 and CloudWatch, enhancing performance and resource allocation.
+Image Processing Automation: Improved processing efficiency by 20% through Python-based OpenCV workflows.
+
+Certifications
+Java Full Stack Development – Wipro TalentNext
+Generative AI with Large Language Models – Coursera
+Cyber Security and Privacy / Ethical Hacking – NPTEL
+Data Analytics and Visualization – Accenture
+
+Education
+🎓 Bachelor of Technology in Information Technology
+📍 NRI Institute of Technology (GPA: 8.63)
+
+📫 Let’s connect!
 
 
 ## 🌐 Socials:
